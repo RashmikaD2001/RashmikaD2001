@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my projects are available at [https://rashmikad2001.github.io/portfolio/](https://rashmikad2001.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [portfolio](https://rashmikad2001.github.io/portfolio/)
 
 - 💬 Ask me about **Java, Python, AI**
 
-- 📫 How to reach me **rashmika.d2167@gmail.com**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/rashmika-dushmantha/)
 
-- 📄 Know about my experiences [https://rashmikad2001.github.io/portfolio/](https://rashmikad2001.github.io/portfolio/)
+- 📄 Know about my experiences [portfolio](https://rashmikad2001.github.io/portfolio/)
 
 - ⚡ Fun fact **I am funny and talkative😂**
 
